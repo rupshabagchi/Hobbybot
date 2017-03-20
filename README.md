@@ -6,13 +6,13 @@ This is a responsive marketing webpage for a small app I'm working on, built usi
 
 Download this template, clone this repository:
 
- git clone https://github.com/rupshabagchi/Hobbybot
+ `git clone https://github.com/rupshabagchi/Hobbybot`
 
  or fork it.
 
 ## Demo
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Demo")
+![alt text](https://github.com/rupshabagchi/Hobbybot/blob/master/botpage/demo.png "Demo")
 
 ## Copyright
 
