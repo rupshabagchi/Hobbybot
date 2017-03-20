@@ -1,49 +1,31 @@
 # Hobbybot
 
-This is a marketing webpage for a small app I'm working on, built using bootstrap.
+This is a responsive marketing webpage for a small app I'm working on, built using the [Bootstrap](http://getbootstrap.com/) framework with SASS. It is multipurpose, and can also be used as a template for other webpages. 
 
+## To get started
 
-CREDITS:
+Download this template, clone this repository:
 
-Bootstrap
-http://getbootstrap.com/
+ git clone https://github.com/rupshabagchi/Hobbybot
 
-jQuery
-http://jquery.com/
+ or fork it.
 
-Images
-http://pexels.com/
+## Demo
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Demo")
 
-Modernizr
-http://modernizr.com/
+## Copyright
 
-Google Fonts
-https://www.google.com/fonts/
+Code released under MIT License, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
 
-Icomoon Entypo
-https://icomoon.io/app/
-http://www.entypo.com/
+## Scripts used:
 
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-countTo JS
-https://github.com/mhuggins/jquery-countTo
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Owl Carousel 2
-http://www.owlcarousel.owlgraphic.com/
+* Bootstrap
+* [jQuery](http://jquery.com/) 
+* [Modernizr](http://modernizr.com/)
+* [Respond JS](https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT)
+* [countTo JS](http://jquery.com/)
+* [animate.css](http://daneden.me/animate)
+* [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) 
+* [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/) 
+* [jQuery Waypoint](https://github.com/imakewebthings/waypoints/blog/master/licenses.txt)
