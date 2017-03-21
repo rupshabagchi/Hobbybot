@@ -12,7 +12,7 @@ Download this template, clone this repository:
 
 ## Demo
 
-![alt text](https://github.com/rupshabagchi/Hobbybot/blob/master/botpage/demo.png "Demo")
+![alt text](https://github.com/rupshabagchi/Hobbybot/blob/master/botpage/demo.png "Demo Page Screenshot")
 
 ## Copyright
 
